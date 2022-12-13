@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 '''numerical function tests'''
 import os
 from xml.etree.ElementTree import TreeBuilder

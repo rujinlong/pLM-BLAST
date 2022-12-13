@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Databases comprise two files, an index file (.csv) containing sequences and their descriptions,
 # and an embeddings file (.pt_emb.p) containing PT5 embeddings of sequences listed in the index.

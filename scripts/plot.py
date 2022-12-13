@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import argparse, os
 import pandas as pd
 import matplotlib.pylab as pl

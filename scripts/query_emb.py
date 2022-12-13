@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 import argparse, os
 from Bio import SeqIO
 import pandas as pd

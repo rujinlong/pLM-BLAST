@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 '''generate embeddings from sequence'''
 import re
 import os
